@@ -56,14 +56,12 @@ A clone of YouTube webapp which has different features such as:
 
 ---
 
-👤 **Karthik Nayak**
+👤 **Nimesh Bisht**
 
-- Twitter - [@KarthikNayak98](https://twitter.com/KarthikNayak98)
-- LinkedIn - [Karthik Nayak](https://www.linkedin.com/in/karthiknayak98)
-
+- LinkedIn - https://www.linkedin.com/in/nimesh-bisht-842657245/
 ## 📝 License
 
 ---
 
-Copyright © 2022 [Karthik Nayak](https://github.com/karthik-nayak98).<br />
-This project is [MIT](https://github.com/Karthik-Nayak98/youtube-clone/blob/main/LICENSE) licensed.
+Copyright © 2022 Nimesh Bisht (https://github.com/Nimeshbisht).<br />
+This project is [MIT](https://github.com/Nimeshbisht/youtube-clone/blob/main/LICENSE) licensed.
